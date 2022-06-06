@@ -1,78 +1,15 @@
 :root {
---primary-color: rgb(0, 0, 0);
---secondary-color: rgb(129, 129, 129);
---tertiary-color: rgb(142, 233, 226);
-}
+    --primary-color: rgb(0, 0, 0);
+    --secondary-color: rgb(129, 129, 129);
+    --tertiary-color: rgb(142, 233, 226);
+    }
+    
+    * {
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+    }
 
-* {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-}
-
-body {
-    color:var(--primary-color);
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: var(--secondary-color);
-}
-
-/* HEADER & NAVIGATION BAR */
-
-header {
-    padding: 20px 35px;
-    background-color: var(--secondary-color);
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    position: sticky;
-    position:-webkit-sticky;
-    top: 0;
-    background-image: url("../images/horizon.jpg");
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 100%;
-    z-index: 9999;
-}
-
-
-header nav ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    list-style: none;
-}
-
-header nav ul li a {
-    margin: 30px;
-    font-weight: lighter;
-    font-size: 1.55vw;
-}
-
-/* HEADER & NAVIGATION BAR END */
-
-
-/* HERO SECTION */
-.hero {
-    background-image: url("../images/horizon.jpg");
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    background-attachment: fixed;
-    background-position: 80%;
-}
-/* HERO SECTION END */
-
-
-/* ABOUT ME SECTION START */
-/* ABOUT ME SECTION END */
-
-
-/* WORK SECTION */
-/* END WORK SECTION */
-
-
-/* FOOTER */
-/* END FOOTER */
+    body {
+        
+    }
