@@ -11,17 +11,32 @@
     }
 
     body {
-       
+         height:100%;
+         width: 100%;
+        background-color: var(--primary-color);
         
+
+
     }
 
     header {
+        height: 250px;
+        width: 100%;
+        background-image:url(../images/rose.jpg);
+        background-size: cover;
+        display: flex;
+        justify-content: space-between;
+        border-style: solid;
+        border-color: var(--secondary-color);
         
     }
     
     .name {
-        
-        
+        font-size: 52px;
+        font-family: 'Times New Roman', Times, serif;
+        color: var(--secondary-color);
+        padding: 0px 0px 0px 175px;
+         
         
     }
 
@@ -31,13 +46,9 @@
 
 
     header nav ul li a {
-    
-    }
-
-
-    .name {
         
     }
+
 
    /* ABOUT ME STYLING */
     
@@ -60,7 +71,7 @@
      
    /* END ABOUT ME STYLING */
 
-   /*BEGIN WORK SHOWCASE SECTION */
+   /*BEGIN WORK SECTION */
 
    section {
    
