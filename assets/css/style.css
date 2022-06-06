@@ -1,7 +1,7 @@
 :root {
-    --primary-color: rgb(0, 0, 0);
-    --secondary-color: rgb(129, 129, 129);
-    --tertiary-color: rgb(142, 233, 226);
+    --primary-color: rgb(184, 249, 240);
+    --secondary-color: rgb(251, 204, 204);
+    --tertiary-color: rgb(52, 18, 225);
     }
     
     * {
@@ -11,5 +11,13 @@
     }
 
     body {
-        
+        background-color: var(--primary-color);
+        background-image: url(../images/horizon.jpg);
+        background-size: cover;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    header nav ul li a {
+
     }
