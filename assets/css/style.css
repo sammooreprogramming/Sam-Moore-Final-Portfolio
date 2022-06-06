@@ -1,18 +1,19 @@
 :root {
---primary-color: red;
---secondary-color: grey;
---tertiary-color: yellow;
+--primary-color: rgb(0, 0, 0);
+--secondary-color: rgb(129, 129, 129);
+--tertiary-color: rgb(142, 233, 226);
 }
 
-*{
-    box-sizing: border-box;
+* {
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 body {
     color:var(--primary-color);
     font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--secondary-color);
 }
 
 /* HEADER & NAVIGATION BAR */
@@ -33,22 +34,6 @@ header {
     z-index: 9999;
 }
 
-header h1 {
-    font-weight: bold;
-    margin: 0;
-    font-size: 36px;
-    color: var(--primary-color);
-    text-shadow: 0 0 15px rgba(0, 0, 0, 0.5)
-    }
-
-header a {
-    text-decoration: none;
-    color: var(--primary-color)
-}    
-
-header nav {
-    margin: 8px;
-}
 
 header nav ul {
     display: flex;
@@ -59,21 +44,35 @@ header nav ul {
 }
 
 header nav ul li a {
-padding: 10px 15px;
-font-weight: lighter;
-font-size: 1.55vw;
-text-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 30px;
+    font-weight: lighter;
+    font-size: 1.55vw;
 }
 
 /* HEADER & NAVIGATION BAR END */
 
 
+/* HERO SECTION */
+.hero {
+    background-image: url("../images/horizon.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: fixed;
+    background-position: 80%;
+}
+/* HERO SECTION END */
+
+
+/* ABOUT ME SECTION START */
+/* ABOUT ME SECTION END */
+
+
+/* WORK SECTION */
+/* END WORK SECTION */
 
 
 /* FOOTER */
-
-footer {
-
-}
-
 /* END FOOTER */
