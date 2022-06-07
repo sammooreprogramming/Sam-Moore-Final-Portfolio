@@ -132,7 +132,7 @@
    /*BEGIN WORK SECTION */
 
    section {
-    
+    font-family: 'Times New Roman', Times, serif;
    }
 
    h2 {
@@ -141,7 +141,7 @@
        padding: 3%
     } 
         
-   section nav ul a {
+   section nav ul li a {
     color: var(--secondary-color)
     }
   
@@ -200,27 +200,28 @@
     /* BEGIN CONTACT ME SECTION */
 
    section {
-        
+    font-family: 'Times New Roman', Times, serif;
+
    }
 
    h4 {
-   
+    font-size: 36px;
    }
     
    .ap {
-
+    font-size: 28px;
    }
 
    .bp {
-
+    font-size: 28px;
    }
     
    .cp {
-
+    font-size: 28px;
    }
    
    .dp {
-
+    font-size: 28px;     
    }
 
    
