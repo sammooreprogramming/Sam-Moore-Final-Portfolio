@@ -132,7 +132,7 @@
    /*BEGIN WORK SECTION */
 
    section {
-    text-align: center;
+    
    }
 
    h2 {
@@ -141,50 +141,57 @@
        padding: 3%
     } 
         
-   section nav ul {
-    
+   section nav ul a {
+    color: var(--secondary-color)
     }
   
 
     .RunBuddy {
-        width: 600px;
-        height: 600px;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 50px;
         background-image: url(../images/hero-bg.jpg);
-        
-        
     }
     
-    .shepherd {
-
-    }
-
+    
     .Stopwatch {
-        width: 250px;
-        height: 250px;
-        background-image: url(../images/Stopwatch.jpg);  
+        height: 50vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 50px;
+        background-image: url(../images/clock.jpg);  
     }
 
 
     .Rasberry-Pi {
-        width: 250px;
-        height: 250px;
-        background-image: url(../images/rasberry-pi.jpg);
-       
+        height: 50vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 50px;
+        background-image: url(../images/pi.jpg);
     }
 
 
     .Puzzle {
-        width: 250px;
-        height: 250px;
-        background-image: url(../images/puzzle.jpg);
-        
-        
+        height: 50vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 50px;
+        background-image: url(../images/puzzled.jpg);
     }
 
 
     .LED {
-        width: 250px;
-        height: 250px;
+        height: 50vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 50px;
         background-image: url(../images/LED.jpg);
     }
 
@@ -194,7 +201,7 @@
 
     /* BEGIN CONTACT ME SECTION */
    section {
-   
+    
    }
 
    h4 {
