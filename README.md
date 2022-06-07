@@ -1,3 +1,8 @@
-  
-  
-  
+My name is Samuel Moore and I'm both a full-stack developer in a coding program through SMU, and I'm also an aspiring entrepreneur.
+My best work is shown in this portfolio and with a link to each of my projects, I thank you for giving them your attention.
+
+
+This portfolio of mine contains all the features stated as requirements in the rubric, and even beyond that I created a dropdown menu, so be on the lookout for that!
+
+Thank you for your time and plese enjoy the portfolio.
+
