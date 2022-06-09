@@ -1,4 +1,4 @@
-My name is Samuel Moore and I'm both a full-stack developer in a coding program through SMU, and I'm also an aspiring entrepreneur.
+My name is Samuel Moore and I'm both a full-stack web development student attending a coding program through SMU, and I'm also an aspiring entrepreneur.
 My best work is shown in this portfolio and with a link to each of my projects, I thank you for giving them your attention.
 
 
