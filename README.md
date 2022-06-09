@@ -12,5 +12,7 @@ https://sammooreprogramming.github.io/Sam-Moore-Final-Portfolio/
 
 ScreenShot-
 
+![Samuel Moore's Portfolio FINAL](https://user-images.githubusercontent.com/105989417/172932217-173d6f38-0def-418d-81b5-e9856a73c0a0.jpg)
+
 
 
