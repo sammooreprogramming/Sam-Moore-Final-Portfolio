@@ -8,7 +8,7 @@ Thank you for your time and plese enjoy the portfolio.
 
 Here is the deployed link to the website-
 
-https://sammooreprogramming.github.io/Sam-Moore-Final-Portfolio/
+https://sammooreprogramming.github.io/Sam-Moores-Lovely-Portfolio/
 
 ScreenShot-
 
